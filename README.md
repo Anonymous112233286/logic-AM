@@ -16,9 +16,6 @@ Code for our ACL-2025 paper [Learning First-Order Logic Rules for Argumentation 
 
 The other packages needed is shown in requirement.txt .
 
-### DSG Parser Setup
-We follow the instruction in https://github.com/seq-to-mind/DMRST_Parser to get the DSG information with minor modifications.
-
 
 ## Data
 We support `AAEC`, and `AbstRCT`.
